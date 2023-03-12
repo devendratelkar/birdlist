@@ -6,12 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <h1>
           Bird List
-        </p>
-        <a>
+        </h1>
+        <p>
           This is the collection of all birds
-        </a>
+        </p>
       </header>
     </div>
   );
